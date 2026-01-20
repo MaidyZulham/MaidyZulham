@@ -12,7 +12,7 @@
   </a>
 </div>
 <div id='badge'>
-  <img src="https://komarev.com/ghpvc/?username=ZulfiLim&style=flat-square&color=red" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=MaidyZulham&style=flat-square&color=red" alt=""/>
 </div>
 <div align='start'>
   
@@ -68,4 +68,4 @@
   ---
 
 ### :fire: My Stats :
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZulfiLim&layout=compact&theme=vision-friendly-dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaidyZulham&layout=compact&theme=vision-friendly-dark)
