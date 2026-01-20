@@ -20,17 +20,27 @@
 
 ### 👨‍💻: About Me :
   
-   I am a Full Stack Programmer which was just began programming <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia
+   Low level is where nobody takes it too seriously, so why shouldn't I be tinkering with it?
+   Starting from <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia
   
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300"/>
 </div>
   
-- 🗒️ VIM Lovers!
-  
+- 🗒️ Emacs & VIM Lovers!
+
+<table>
+  <td>
   <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/13142418/53255520-bf44de00-3700-11e9-9f47-50bc50ed6e83.gif" width="500"/>
-</div>
+    <img src="https://user-images.githubusercontent.com/13142418/53255520-bf44de00-3700-11e9-9f47-50bc50ed6e83.gif" width="400"/>
+  </div>
+  </td>
+  <td>
+  <div id="header" align="center">
+    <img src="https://user-images.githubusercontent.com/13142418/53255520-bf44de00-3700-11e9-9f47-50bc50ed6e83.gif" width="400"/>
+  </div>
+  </td>
+</table>
   
   <div align='start'>
   
