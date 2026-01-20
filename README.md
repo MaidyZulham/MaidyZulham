@@ -3,6 +3,7 @@
 ### :hammer_and_wrench: Languages and Tools :
   
   <div align="center">
+    <img src="https://github.com/user-attachments/assets/1ecbf3eb-e3db-43d7-a4b7-b43216458730" title="GNU" alt="gnu" width="40" height="40"/>&nbsp;
     <img src="https://github.com/user-attachments/assets/3f067087-51c1-4f7e-a5b1-0d43fa5ed801" title="RUST" alt="Rust" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/KeccakKitchen/KeccakKitchen/6c1787430ab87ffe0672b0110bc18c24969cb0d2/java-logo-1.png" title="JAVA" alt="Java" width="50" height="50"/>&nbsp;
     <img src="https://raw.githubusercontent.com/KeccakKitchen/KeccakKitchen/6c1787430ab87ffe0672b0110bc18c24969cb0d2/5848152fcef1014c0b5e4967.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -10,6 +11,7 @@
     <img src="https://github.com/user-attachments/assets/488e8a7f-1170-4c14-adfa-dc04c76f86d9" width="50" height="50" alt="c"/>&nbsp;
     <img src="https://raw.githubusercontent.com/KeccakKitchen/KeccakKitchen/6c1787430ab87ffe0672b0110bc18c24969cb0d2/C.png" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
     <img title="MQL5" width="40" height="40" alt="MQL5" src="https://github.com/user-attachments/assets/a19acdca-4a41-4bac-84d6-64d4f3517e07" />&nbsp;
+    <img title="BSD" width="50" height="50" alt="bsd" src="https://github.com/user-attachments/assets/01dee2cc-b833-42c9-ab01-3c7b18c234be" />&nbsp;
     <img src="https://github.com/user-attachments/assets/244909ff-7f53-439c-9886-b7c4bb1b0ff3" title="EMACS" width="40" height="40" alt="emacs"/>&nbsp;
     <img src="https://raw.githubusercontent.com/KeccakKitchen/KeccakKitchen/6c1787430ab87ffe0672b0110bc18c24969cb0d2/1022px-Vimlogo.svg.png" title="VIM" alt="VIM" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/KeccakKitchen/KeccakKitchen/6c1787430ab87ffe0672b0110bc18c24969cb0d2/logo-mysql-26353.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
