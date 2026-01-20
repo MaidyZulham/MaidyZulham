@@ -9,7 +9,7 @@
     <img title="LLVM" width="50" height="50" alt="llvm" src="https://github.com/user-attachments/assets/efab69b1-e491-4543-88fe-34ec9b8170f6" />&nbsp;
     <img src="https://github.com/user-attachments/assets/488e8a7f-1170-4c14-adfa-dc04c76f86d9" width="50" height="50" alt="c"/>&nbsp;
     <img src="https://raw.githubusercontent.com/KeccakKitchen/KeccakKitchen/6c1787430ab87ffe0672b0110bc18c24969cb0d2/C.png" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
-    <img title="MQL5" width="40" height="40" alt="MQL5" src="https://github.com/user-attachments/assets/a19acdca-4a41-4bac-84d6-64d4f3517e07" />&bnsp;
+    <img title="MQL5" width="40" height="40" alt="MQL5" src="https://github.com/user-attachments/assets/a19acdca-4a41-4bac-84d6-64d4f3517e07" />&nbsp;
     <img src="https://github.com/user-attachments/assets/244909ff-7f53-439c-9886-b7c4bb1b0ff3" title="EMACS" width="40" height="40" alt="emacs"/>&nbsp;
     <img src="https://raw.githubusercontent.com/KeccakKitchen/KeccakKitchen/6c1787430ab87ffe0672b0110bc18c24969cb0d2/1022px-Vimlogo.svg.png" title="VIM" alt="VIM" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/KeccakKitchen/KeccakKitchen/6c1787430ab87ffe0672b0110bc18c24969cb0d2/logo-mysql-26353.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
