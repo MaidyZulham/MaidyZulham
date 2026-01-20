@@ -6,7 +6,7 @@
     <img src="https://github.com/user-attachments/assets/3f067087-51c1-4f7e-a5b1-0d43fa5ed801" title="RUST" alt="Rust" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/KeccakKitchen/KeccakKitchen/6c1787430ab87ffe0672b0110bc18c24969cb0d2/java-logo-1.png" title="JAVA" alt="Java" width="50" height="50"/>&nbsp;
     <img src="https://raw.githubusercontent.com/KeccakKitchen/KeccakKitchen/6c1787430ab87ffe0672b0110bc18c24969cb0d2/5848152fcef1014c0b5e4967.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img title="LLVM" width="1024" height="1024" alt="llvm" src="https://github.com/user-attachments/assets/efab69b1-e491-4543-88fe-34ec9b8170f6" />&nbsp;
+    <img title="LLVM" width="50" height="50" alt="llvm" src="https://github.com/user-attachments/assets/efab69b1-e491-4543-88fe-34ec9b8170f6" />&nbsp;
     <img src="https://github.com/user-attachments/assets/488e8a7f-1170-4c14-adfa-dc04c76f86d9" width="50" height="50" alt="c"/>&nbsp;
     <img src="https://raw.githubusercontent.com/KeccakKitchen/KeccakKitchen/6c1787430ab87ffe0672b0110bc18c24969cb0d2/C.png" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
     <img title="MQL5" width="40" height="40" alt="MQL5" src="https://github.com/user-attachments/assets/a19acdca-4a41-4bac-84d6-64d4f3517e07" />&bnsp;
