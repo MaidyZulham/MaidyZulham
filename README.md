@@ -1,6 +1,10 @@
 <div align="center"> <div>
 
 <!--<div id="badges">
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300"/>
+</div>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   <a href="https://twitter.com/KeccakKitchen">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
@@ -10,22 +14,18 @@
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>-->
-<div id='badge'>
+  <div id='badge'>
   <img src="https://komarev.com/ghpvc/?username=MaidyZulham&style=flat-square&color=red" alt=""/>
 </div>
 <div align='start'>
+</div>-->
   
   ---
 
 ### 👨‍💻: About Me :
   
    Low level is where nobody takes it too seriously, so why shouldn't I be tinkering with it?
-   Starting from <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia
-  
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300"/>
-</div>
+   Starting from the high level and going deep into the low level _ so much play, so much fun!
   
 - 🗒️ Emacs & VIM Lovers!
 
@@ -37,8 +37,9 @@
   </td>
   <td>
   <div id="header" align="center">
-    <img src="https://user-images.githubusercontent.com/13142418/53255520-bf44de00-3700-11e9-9f47-50bc50ed6e83.gif" width="400"/>
+    <img src="https://github.com/user-attachments/assets/012e110c-4e18-4980-8c7a-aeaf3d10c029" width="400"/>
   </div>
+
   </td>
 </table>
   
