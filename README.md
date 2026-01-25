@@ -1,6 +1,52 @@
----
+
+
+### 👨‍💻: About Me :
+  
+  ```yaml
+name: Zulfi Hamzah
+located_in: Jember, Idonesia
+current_job: Full Stack Developer
+education:
+  [
+    "Self-Taught Programmer",
+    "Bachelor's in Management Economy",
+    "high school graduated of language majoring"
+  ]
+
+fields_of_interests:
+  [
+    "HFT",
+    "Wasm",
+    "Virtual Machine",
+    "Jlox",
+    "Data Science",
+    "Machine Learning",
+    "Web Development",
+    "Blockchain",
+  ]
+technical_background:
+  [
+    "Full Stack Developer"
+    "Intern - VLSI and FPGA Implementation",
+  ]
+  
+currently_learning: ["LLVM, Bison, jlox, Machine Learning, and Wasm"]
+2026 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+hobbies: ["Gaming", "Anime", "Music", "Polyglots"]
+  ```
+
+</div>
+
+### :fire: My Stats :
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaidyZulham&layout=compact&theme=vision-friendly-dark)
+
+  ---
 
 ### :hammer_and_wrench: Languages and Tools :
+
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/13b18730-0728-4afc-869a-fe5d3e0fc0c4" title="Ishida" alt="ishida" width="350"/>&nbsp;
+</div>
   
   <div align="center">
     <img src="https://github.com/user-attachments/assets/1ecbf3eb-e3db-43d7-a4b7-b43216458730" title="GNU" alt="gnu" width="40" height="40"/>&nbsp;
@@ -23,11 +69,7 @@
 
   ---
 
-### 👨‍💻: About Me :
-  
-   <h3>Low level is where nobody takes it too seriously, so why shouldn't I be tinkering with it?</h3>
-   <h4>Starting from the high level and going deep into the low level _ so much play, so much fun!</h4>
-  
+<!--<div id="badges">
 - 🗒️ Emacs & VIM Lovers!
 
 <table>
@@ -45,16 +87,10 @@
 </table>
   
 <div align='start'>
-  
+   <h3>Low level is where nobody takes it too seriously, so why shouldn't I be tinkering with it?</h3>
+   <h4>Starting from the high level and going deep into the low level _ so much play, so much fun!</h4>
 - :telescope: I'm a Programmer who love tinkering about unthinkable pieces of code as an work of art.
 - :zap: In my free time, I mostly spend my time to consume a lot of financial technology informations.
-  
-</div>
-
-### :fire: My Stats :
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaidyZulham&layout=compact&theme=vision-friendly-dark)
-
-<!--<div id="badges">
 <div id='badge'>
   - :mailbox:How to reach me: 
   <a href="https://x.com/">
