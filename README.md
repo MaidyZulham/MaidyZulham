@@ -39,9 +39,7 @@ hobbies: ["Gaming", "Anime", "Music", "Polyglots"]
 
 ### :fire: My Stats :
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaidyZulham&layout=compact&theme=vision-friendly-dark&count_private=true)
-```
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaidyZulham&layout=compact&theme=vision-friendly-dark)
-```
+
   ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -73,6 +71,8 @@ hobbies: ["Gaming", "Anime", "Music", "Polyglots"]
 
 <!--<div id="badges">
 - 🗒️ Emacs & VIM Lovers!
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaidyZulham&layout=compact&theme=vision-friendly-dark)
 
 <table>
   <td>
