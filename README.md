@@ -38,7 +38,7 @@ hobbies: ["Gaming", "Anime", "Music", "Polyglots"]
 </div>
 
 ### :fire: My Stats :
-  ![Top Langs](https://github-readme-stats-git-master.rickstaa-rickstaa.vercel.app/api/top-langs/?username=MaidyZulham&theme=vision-friendly-dark&layout=compact)
+  ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=MaidyZulham&theme=shadow)
   ---
 
 ### :hammer_and_wrench: Languages and Tools :
