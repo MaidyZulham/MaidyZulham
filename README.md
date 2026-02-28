@@ -38,8 +38,10 @@ hobbies: ["Gaming", "Anime", "Music", "Polyglots"]
 </div>
 
 ### :fire: My Stats :
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaidyZulham&layout=compact&theme=vision-friendly-dark&count_private=true)
+```
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaidyZulham&layout=compact&theme=vision-friendly-dark)
-
+```
   ---
 
 ### :hammer_and_wrench: Languages and Tools :
