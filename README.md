@@ -38,7 +38,7 @@ hobbies: ["Gaming", "Anime", "Music", "Polyglots"]
 </div>
 
 ### :fire: My Stats :
-  ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=MaidyZulham&theme=shadow)
+  ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=MaidyZulham&theme=dark)
   ---
 ```
 ### :hammer_and_wrench: Languages and Tools :
