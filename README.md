@@ -38,9 +38,9 @@ hobbies: ["Gaming", "Anime", "Music", "Polyglots"]
 </div>
 
 ### :fire: My Stats :
-  ![Top Languages]()
+  ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=MaidyZulham&theme=shadow)
   ---
-
+```
 ### :hammer_and_wrench: Languages and Tools :
 
 <div align="center">
@@ -67,7 +67,7 @@ hobbies: ["Gaming", "Anime", "Music", "Polyglots"]
   </div>
 
   ---
-
+```
 <!--<div id="badges">
 - 🗒️ Emacs & VIM Lovers!
 
