@@ -40,7 +40,7 @@ hobbies: ["Gaming", "Anime", "Music", "Polyglots"]
 ### :fire: My Stats :
   ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=MaidyZulham&theme=dark)
   ---
-```
+<!--
 ### :hammer_and_wrench: Languages and Tools :
 
 <div align="center">
@@ -67,7 +67,7 @@ hobbies: ["Gaming", "Anime", "Music", "Polyglots"]
   </div>
 
   ---
-```
+
 <!--<div id="badges">
 - 🗒️ Emacs & VIM Lovers!
 
@@ -116,4 +116,5 @@ hobbies: ["Gaming", "Anime", "Music", "Polyglots"]
   <img src="https://komarev.com/ghpvc/?username=MaidyZulham&style=flat-square&color=red" alt=""/>
 </div>
 <div align='start'>
-</div>-->
+</div>
+-->
