@@ -1,4 +1,4 @@
-
+<!--
 
 ### 👨‍💻: About Me :
   
@@ -38,6 +38,7 @@ hobbies: ["Gaming", "Anime", "Music", "Polyglots"]
 </div>
 
 ### :fire: My Stats :
+-->
   ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=MaidyZulham&theme=dark)
   ---
 <!--
